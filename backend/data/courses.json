@@ -1,0 +1,50 @@
+[
+  {
+    "id": "school-tuition",
+    "title": "School Tuition",
+    "desc": "Comprehensive tutoring for classes VI to X covering all major subjects with a focus on fundamentals.",
+    "icon": "PencilRuler",
+    "color": "text-blue-500",
+    "bg": "bg-blue-50"
+  },
+  {
+    "id": "higher-secondary",
+    "title": "Higher Secondary",
+    "desc": "Specialized coaching for XI & XII students to excel in board examinations.",
+    "icon": "GraduationCap",
+    "color": "text-purple-500",
+    "bg": "bg-purple-50"
+  },
+  {
+    "id": "science-stream",
+    "title": "Science Stream",
+    "desc": "In-depth physics, chemistry, and mathematics coaching for aspiring engineers and scientists.",
+    "icon": "Microscope",
+    "color": "text-cyan-500",
+    "bg": "bg-cyan-50"
+  },
+  {
+    "id": "commerce-stream",
+    "title": "Commerce Stream",
+    "desc": "Expert guidance in Accountancy, Business Studies, and Economics.",
+    "icon": "Calculator",
+    "color": "text-emerald-500",
+    "bg": "bg-emerald-50"
+  },
+  {
+    "id": "competitive-exams",
+    "title": "Competitive Exams",
+    "desc": "Rigorous preparation for JEE, NEET, and other state/national level entrance exams.",
+    "icon": "Book",
+    "color": "text-red-500",
+    "bg": "bg-red-50"
+  },
+  {
+    "id": "foundation-courses",
+    "title": "Foundation Courses",
+    "desc": "Early preparation programs designed to build strong analytical and reasoning skills.",
+    "icon": "Compass",
+    "color": "text-amber-500",
+    "bg": "bg-amber-50"
+  }
+]
